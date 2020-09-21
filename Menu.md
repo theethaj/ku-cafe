@@ -12,12 +12,4 @@
 | French Toast                            |  70.00 Baht |
 | Breakfast Parfait                           |  100.00 Baht |
 
-## Lunch Menu
-
-Coming soon.
-
-etc.
-
----
-
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
