@@ -1,8 +1,7 @@
 # KU Cafe
 
-**TODO**: add hyperlinks and format these one per line. Remove this TODO.
 
-Breakfast Menu
+[breakfast menu](Menu.md)
 Lunch Menu
 Dinner Menu
 Night Food Menu
@@ -14,5 +13,5 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
+|Tanapol Buangam|Breakfast menu| KOngTNP |
 | ...       | ...       | ...      |
