@@ -6,5 +6,5 @@
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-|Tanapol Buangam|Breakfast menu| [KOngTNP](https://github.com/kongtnp)| |
+|Tanapol Buangam|Breakfast menu| [KOngTNP](https://github.com/kongtnp) |
 | ...       | ...       | ...      |
