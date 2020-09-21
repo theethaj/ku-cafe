@@ -15,6 +15,6 @@ Dinner Menu
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
 | Tetach    | Lunch Menu| [theethaj](https://github.com/theethaj) |
-| Arisa | Beverages | [@kidstylex](https://github.com/kidstylex)|
+| Arisa | Beverages | [kidstylex](https://github.com/kidstylex)|
 | Chayapol | Night Menu| [Chayapol-c](https://github.com/Chayapol-c) |
 
