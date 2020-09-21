@@ -10,5 +10,5 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Tetach Rattanavikran | Lunch Menu | [theethaj](https://github.com/theethaj) |
+| Tetach    | Lunch Menu| [theethaj](https://github.com/theethaj) |
 | ...       | ...       | ...      |
