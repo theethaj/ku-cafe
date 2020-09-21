@@ -1,5 +1,17 @@
 # KU Cafe Menu
 
+## Breakfast Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Eggs Benedict                            |  150.00 THB |
+| Bacon and Eggs                           |  120.00 THB |
+| Pancakes and Maple Syrup                            |  90.00 THB |
+| Cinnamon Rolls                            |  85.00 THB |
+| Belgian Style Waffles                            |  80.00 THB |
+| French Toast                            |  70.00 THB |
+| Breakfast Parfait                           |  100.00 THB |
+
 ## Lunch Menu
 
 | Item                                   | Price |
@@ -8,6 +20,17 @@
 | Onion Soup                             |  50.00 THB |
 | Sukiyaki                               |  70.00 THB |
 | Cantonese Roasted Goose                |  200.00 THB |
+
+## Dinner Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Wagyu Beef Steak                       |  500.00 THB |
+| Jurassic Pork                          |  100.00 THB |
+| Foie Gras                              | 3000.00 THB |
+| Grilled Phuket Lobster                 |  450.00 THB |
+| Fried Grouper Fish                     |  100.00 THB |
+| Grilled Oysters                        |  400.00 THB |
 
 ## Night Food Menu
 
