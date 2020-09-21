@@ -28,7 +28,7 @@ Beverages
 
 ## Night Food Menu
 
-|         Food         |  Cost  |
+|         Item        |  Price  |
 |:--------------------:|-------|
 | Double Cheese Burger | 160.00 THB  |
 | Margarita Pizza      | 290.00 THB  |
