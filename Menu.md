@@ -1,5 +1,16 @@
 # KU Cafe Menu
 
+## Breakfast Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Eggs Benedict                            |  150.00 THB |
+| Bacon and Eggs                           |  120.00 THB |
+| Pancakes and Maple Syrup                            |  90.00 THB |
+| Cinnamon Rolls                            |  85.00 THB |
+| Belgian Style Waffles                            |  80.00 THB |
+| French Toast                            |  70.00 THB |
+| Breakfast Parfait                           |  100.00 THB |
 
 ## Lunch Menu
 
@@ -33,8 +44,8 @@
 
 ## Beverages
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
+|         Item        |  Price  |
+|:--------------------:|-------|
 |  Water       |  15.00 THB |
 | Soft Drinks (Coke, Diet Coke, Sprite, Apple Soda)                |  29.00 THB |
 | Coco smoothie                            |  100.00 THB |
@@ -44,7 +55,6 @@
 | Mixed Fruit                       |  160.00 THB |
 | Mixed fruit juice frappe                       |  100.00 THB |
 | Blue soda frappe                       |  100.00 THB |
-
 
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
