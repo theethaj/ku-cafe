@@ -14,7 +14,7 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Chayapol | Night Menu| @Chayapol-c |
+| Chayapol | Night Menu| [@Chayapol-c](https://github.com/Chayapol-c) |
 | ...       | ...       | ...      |
 
 ## Breakfast Menu
