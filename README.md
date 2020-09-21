@@ -1,6 +1,6 @@
 # KU Cafe
 
-[breakfast menu](Menu.md)
+[Dinner Menu](Menu.md)
 
 ## About Us
 
