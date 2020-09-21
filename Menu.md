@@ -33,7 +33,7 @@
 
 ## Beverages
 
-| Beverages                                   | Price |
+| Item                                   | Price |
 |:---------------------------------------|------:|
 |  Water       |  15.00 THB |
 | Soft Drinks (Coke, Diet Coke, Sprite, Apple Soda)                |  29.00 THB |
