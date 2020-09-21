@@ -14,5 +14,5 @@ Night Food Menu
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Arisa | Beverages | [@kidstylex](https://github.com/kidstylex)|
+| Arisa | Beverages | [kidstylex](https://github.com/kidstylex)|
 | ...       | ...       | ...      |
