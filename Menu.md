@@ -1,16 +1,13 @@
 # KU Cafe Menu
 
-## Breakfast Menu
+## Lunch Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
-
-## Lunch Menu
-
-Coming soon.
-
-etc.
+| Lobster Bisque                         |  250.00 Baht |
+| Onion Soup                             |  50.00 Baht |
+| Sukiyaki                               |  70.00 Baht |
+| Cantonese Roasted Goose                |  200.00 Baht |
 
 ---
 
