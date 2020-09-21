@@ -6,5 +6,5 @@
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-|Natthaphon Rakprakobkij|Dinner Menu| mark47546 |
+|Natthaphon Rakprakobkij|Dinner Menu| [mark47546](https://github.com/mark47546) |
 | ...       | ...       | ...      |
