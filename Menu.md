@@ -1,13 +1,25 @@
 # KU Cafe Menu
 
+
 ## Lunch Menu
-=======
+
 | Item                                   | Price |
 |:---------------------------------------|------:|
 | Lobster Bisque                         |  250.00 THB|
 | Onion Soup                             |  50.00 THB |
 | Sukiyaki                               |  70.00 THB |
 | Cantonese Roasted Goose                |  200.00 THB |
+
+## Dinner Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Wagyu Beef Steak                       |  500.00 THB |
+| Jurassic Pork                          |  100.00 THB |
+| Foie Gras                              | 3000.00 THB |
+| Grilled Phuket Lobster                 |  450.00 THB |
+| Fried Grouper Fish                     |  100.00 THB |
+| Grilled Oysters                        |  400.00 THB |
 
 ## Night Food Menu
 
@@ -32,6 +44,7 @@
 | Mixed Fruit                       |  160.00 THB |
 | Mixed fruit juice frappe                       |  100.00 THB |
 | Blue soda frappe                       |  100.00 THB |
+
 
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
