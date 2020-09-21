@@ -6,5 +6,5 @@
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-|Tanapol Buangam|Breakfast menu| KOngTNP |
+|Natthaphon Rakprakobkij|Dinner Menu| mark47546 |
 | ...       | ...       | ...      |
