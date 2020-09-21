@@ -1,20 +1,5 @@
 # KU Cafe Menu
 
-Breakfast Menu
-Lunch Menu
-Dinner Menu
-
-[Night Food Menu](#Night%20Food%20Menu)
-Beverages
-
-## About Us
-
-
-| Name      | Role      | Github   |
-|:----------|-----------|----------|
-| Chayapol | Night Menu| [@Chayapol-c](https://github.com/Chayapol-c) |
-| ...       | ...       | ...      |
-
 ## Breakfast Menu
 
 | Item                                   | Price |
