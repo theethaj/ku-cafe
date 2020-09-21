@@ -1,15 +1,14 @@
 # KU Cafe Menu
 
-## Breakfast Menu
+## Dinner Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Eggs Benedict                            |  150.00 Baht |
-| Bacon and Eggs                           |  120.00 Baht |
-| Pancakes and Maple Syrup                            |  90.00 Baht |
-| Cinnamon Rolls                            |  85.00 Baht |
-| Belgian Style Waffles                            |  80.00 Baht |
-| French Toast                            |  70.00 Baht |
-| Breakfast Parfait                           |  100.00 Baht |
+| Wagyu Beef Steak                       |  500.0 Baht |
+| Jurassic Pork                          |  100.0 Baht |
+| Foie Gras                              | 3000.0 Baht |
+| Grilled Phuket Lobster                 |  450.0 Baht |
+| Fried Grouper Fish                     |  100.0 Baht |
+| Grilled Oysters                        |  400.0 Baht |
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
